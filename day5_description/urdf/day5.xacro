@@ -92,7 +92,7 @@
   <origin xyz="-0.075 -0.06 -0.009936" rpy="0 0 0"/>
   <parent link="base_link"/>
   <child link="right_1"/>
-  <axis xyz="0.0 -1.0 0.0"/>
+  <axis xyz="0.0 1.0 0.0"/>
 </joint>
 
 <joint name="Rev4" type="continuous">
